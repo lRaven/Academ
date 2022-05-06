@@ -39,7 +39,6 @@ async function getApartmentsOnTheFloor(floor) {
 		sortApartments(single_room, 'SET_SINGLE_ROOM');
 		sortApartments(two_room, 'SET_TWO_ROOM');
 		sortApartments(three_room, 'SET_THREE_ROOM');
-		sortApartments(apartments, 'SET_APARTMENTS_ON_FLOOR');
 	} catch {
 		e => {
 			console.error(e);

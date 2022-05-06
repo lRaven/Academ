@@ -29,7 +29,6 @@
 				<a class="link" @click="scroll('#office')">Офисы</a>
 				<a class="link" @click="scroll('#parking')">Парковки</a>
 				<a class="link" @click="openPopup">Ипотека</a>
-				<router-link to="/trade-in" class="link">Trade-in</router-link>
 				<a class="link">Ремонт</a>
 			</nav>
 		</div>
