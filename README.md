@@ -1,4 +1,4 @@
-# academ
+# Site of the «Akademichesky» residential complex
 
 ## Project setup
 ```
